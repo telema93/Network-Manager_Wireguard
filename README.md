@@ -1,7 +1,7 @@
 Wireguard Для Linux Mint (+Gnome) Network Manager
 =================================================
 
-Используем [репозиторий] (https://github.com/max-moser/network-manager-wireguard)
+Используем [репозиторий](https://github.com/max-moser/network-manager-wireguard)
 
 Первым делом установить все зависимости и библиотеки:
 
