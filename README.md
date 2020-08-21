@@ -5,7 +5,7 @@ Wireguard Для Linux Mint (+Gnome) Network Manager
 
 ```bash
 wget https://raw.githubusercontent.com/telema93/Network-Manager_Wireguard/master/nmwgsetup.sh
-./nmwgsetup.sh
+bash ./nmwgsetup.sh
 ```
 ### Вручную
 
