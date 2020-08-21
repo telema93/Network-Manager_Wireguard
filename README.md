@@ -1,5 +1,5 @@
-h1 Wireguard Для Linux Mint (+Gnome) Network Manager
-====================================================
+Wireguard Для Linux Mint (+Gnome) Network Manager
+=================================================
 
 Используем [репозиторий] (https://github.com/max-moser/network-manager-wireguard)
 
